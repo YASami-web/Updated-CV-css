@@ -1,0 +1,26 @@
+body {
+    background-color: #DBf6E9;
+  }
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #66BFBF;
+    border-width: 10px;
+    width: 15%;
+
+  }
+textarea {
+    background-color: #839b97;
+}
+h1 {
+  color: #16697A;
+}
+h2{
+  color: #16697A;
+}
+h3 {
+  color: #16697A;
+}
+input {
+  background-color: #839b97;
+}
